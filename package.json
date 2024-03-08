@@ -1,0 +1,24 @@
+{
+  "name": "codes_tea",
+  "version": "1.0.0",
+  "description": "derase9tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malitskil244/codes_tea.git"
+  },
+  "dependencies": {
+    "defilan_tea_870-": "^1.0.0",
+    "ferde_tea": "^1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malitskil244/codes_tea/issues"
+  },
+  "homepage": "https://github.com/malitskil244/codes_tea#readme"
+}
